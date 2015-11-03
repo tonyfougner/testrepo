@@ -2,3 +2,4 @@ hej hej
 hej hej
 hallå hallå
 goodbye
+Detta skriver jag i 1.0.
